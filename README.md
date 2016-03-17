@@ -1,1 +1,2 @@
-# DemoMavenApp
+# onlinebanking
+onlinebanking-demo
